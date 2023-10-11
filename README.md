@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuartzPoem
-- 👀 I’m interested in anime, turning facests of life into games, constantly expanding my brain capacity
+- 👀 I’m interested in anime, turning facets of life into games, constantly expanding my brain capacity
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on intro community projects.
 - 📫 You can reach me by email: jay.r.ross0@gmail.com 
